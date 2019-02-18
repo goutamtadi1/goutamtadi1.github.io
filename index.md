@@ -1,5 +1,5 @@
 ## Social Media
-![](./twitter.png =100x20)@goutamtadi
+<img src="twitter.png" alt="twitter" width="200"/>@goutamtadi
 
 ## Welcome
 
