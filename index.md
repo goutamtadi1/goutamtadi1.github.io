@@ -1,5 +1,5 @@
 ## Social Media
-![](https://github.com/goutamtadi1/goutamtadi1.github.io/blob/master/twitter%20icon.png =100x20)@goutamtadi
+![](./twitter.png =100x20)@goutamtadi
 
 ## Welcome
 
