@@ -1,8 +1,5 @@
 ## Social Media
-![alt text][tlogo]@goutamtadi
-
-
-[tlogo]: https://github.com/goutamtadi1/goutamtadi1.github.io/blob/master/twitter%20icon.png "Twitter logo"
+![][https://github.com/goutamtadi1/goutamtadi1.github.io/blob/master/twitter%20icon.png =100x20]@goutamtadi
 
 ## Welcome
 
