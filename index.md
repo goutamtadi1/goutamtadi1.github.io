@@ -1,5 +1,5 @@
 ## Social Media
-<img src="twitter.png" alt="twitter" width="40" height="30"/> @goutamtadi
+<img src="twitter.png" alt="twitter" width="30" height="30"/> @goutamtadi
 
 ## Welcome
 
